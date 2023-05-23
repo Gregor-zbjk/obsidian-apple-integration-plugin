@@ -1,6 +1,6 @@
 # Obsidian Apple Integration
 
-This is a plugin for Obsidian (https://obsidian.md) to integrate more with Apples Ecosystem.
+This is a plugin for Obsidian (<https://obsidian.md>) to integrate more with Apples Ecosystem.
 The realy ONE MORE THING for Obsidian
 
 **Note:** This Obsidian Plugin is still in an early Development Stage
@@ -35,10 +35,8 @@ The realy ONE MORE THING for Obsidian
 
 ## Funding
 
-Buy me a Coffe: https://www.buymeacoffee.com/gregor_zbjk
+Buy me a Coffe: <https://www.buymeacoffee.com/gregor_zbjk>
 GitHub Sponsors:
 Patreon:
 
-
 ## Credits
-
